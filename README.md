@@ -1,9 +1,18 @@
 <h1 align="center">Hi there👋, I'm Daniel</h1>
 <h3 align="center">A passionate Data professional from Mexico</h3>
 
-- 🔭 I’m currently working on **my data analysis and science skills**
+🔭 I’m currently expanding **my data analysis and science skills**
 
-- 👯 I’m looking to collaborate on **projects that have a deep impact in society**
+👯 I’m looking to collaborate on **projects that have a deep impact in society**
+
+🤓 I'm an experienced business developer, web3 and data enthusiast. So far I have participated in different industries such as fintech, health, real       state, and construction technologies. I've just finished an intensive coding Bootcamp to learn Data Science with Python, which included the               following stack:
+
+- Data Analytics with SQL, BigQuery, Pandas, Numpy and Matplotlib 🐼
+- Statistics with Scipy, Seaborn and Statsmodels 📊
+- Machine Learning with Scikit-learn 🤖
+- Deep Learning with TensorFlow Keras 👾
+- Development of Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit ☁️
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17oMtX6ZDDMweZYfcvAQv_-wdkoqjypTA/view?usp=sharing](https://drive.google.com/file/d/17oMtX6ZDDMweZYfcvAQv_-wdkoqjypTA/view?usp=sharing)
 
