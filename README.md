@@ -16,7 +16,7 @@
 
 📄 Know about my experiences [https://drive.google.com/file/d/17oMtX6ZDDMweZYfcvAQv_-wdkoqjypTA/view?usp=sharing](https://drive.google.com/file/d/17oMtX6ZDDMweZYfcvAQv_-wdkoqjypTA/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/daniel-riojas-/
+<h3 align="left">Reach out:</h3> https://www.linkedin.com/in/daniel-riojas-/
 <p align="left">
 </p>
 
