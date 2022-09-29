@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Daniel</h1>
-<h3 align="center">A passionate Data professional from Mexico</h3>
+<h3 align="center">Data professional from Mexico</h3>
 
 🔭 I’m currently expanding **my data analysis and science skills**
 
